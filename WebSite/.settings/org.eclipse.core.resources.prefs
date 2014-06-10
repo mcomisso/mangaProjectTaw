@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/HomePage.jsp=UTF-8
+encoding//src/MainCore.java=UTF-8
+encoding//src/MangaManager.java=UTF-8
+encoding//src/dao/DAOProperties.java=UTF-8
+encoding//src/dao/MangaDAO.java=UTF-8
+encoding//src/dao/MangaDAOJDBC.java=UTF-8
+encoding//src/dao/User_MangaDAO.java=UTF-8
+encoding//src/dao/User_MangaDAOJDBC.java=UTF-8
+encoding//src/model/Manga.java=UTF-8
